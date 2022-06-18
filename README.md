@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TanishaCooper
-- 👀 I’m interested in Data Analysis and other machine learning jobs using SQL, Python, MongoDB, and/or R
-- 👩🏾‍💻 Analytically driven Healthcare and Business Data Analyst who thrives on condensing high volumes of data into an easily understandable story. Expert at working independently and collaborating with teams across multiple functions to gather information from a variety of sources and effectively explain concepts to a variety of audiences. Proficient in addressing complex challenges.
+- ❤️ Self-driven, quick starter, passionate data analyst and Registered Nurse (MSN) with a curious mind who loves solving a very complex, challenging real-world problems using machine learning tools to create data visualizations.
+- 👩🏾‍💻 Please review projects I have completed within my [Portfolio](https://creative-paprenjak-19acff.netlify.app/)
 - 🌱 Data Analysis Certification Georgia Tech
-- 💞️ I’m looking to collaborate on future project that explore visuals for healthcare, population health, finance, and revenue/coding.
+- 💞️ I’m looking to collaborate on future project such as Frontend/Backend Developer, Data Analytics/Science, and/or System/Product Architect. 
 - 📫 You can reach me at strickland.tanisha@yahoo.com and/or (478) 390-9153.
 
 <!---
